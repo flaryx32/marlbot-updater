@@ -1,0 +1,35 @@
+
+@define-color bg           #12101c;
+@define-color bg2          #1a1a2e;
+@define-color primary      #a050f0;
+@define-color text         #e0e0e0;
+@define-color text-muted   #a0a0a0;
+@define-color card-bg      #1f1d2b;
+QWidget {
+    background: @bg;
+    color: @text;
+    font-family: "Poppins";
+}
+
+QLabel {
+    color: @text;
+}
+
+QPushButton {
+    background: @primary;
+    border: none;
+    padding: 8px 22px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+QPushButton:hover {
+    background: #c070ff;
+}
+
+QTextBrowser {
+    background: @card-bg;
+    border: 1px solid #3a384c;
+    border-radius: 6px;
+    padding: 8px;
+}
