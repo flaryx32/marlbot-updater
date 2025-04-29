@@ -1,0 +1,15 @@
+Copyright © 2025 flaryx32. All rights reserved.
+
+You are permitted to view this source code in its original GitHub repository
+for personal study only.
+
+You MAY NOT:
+• copy, modify, merge, publish, distribute, sublicense, and/or sell copies  
+  of the Software or any derivative works;
+• decompile, disassemble, reverse-engineer, or otherwise attempt to derive
+  the source code of any part of the Software that is distributed in binary
+  form;
+• use the Software to create competing commercial products.
+
+Any use not expressly granted above is reserved.  Requests for a commercial
+or research license should be sent to discord: @flaryx32
